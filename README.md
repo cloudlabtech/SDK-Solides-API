@@ -64,7 +64,7 @@ Com os webhooks é possível receber notificações quando alguns eventos aconte
 - Links genéricos
 
 ## O que é o SDK para a API da Sólides?
-Com as funcionalidades existentes nas APIs e nos Webhooks, temos um ecossistema de integração a partir dos quais qualquer ferramenta, plataforma ou sistema pode se beneficiar, seja consumindo os dados produzidos pela Solides ou fornecendo suas próprias informações para a Solides, a partir de origens de dados, plataforma e sistemas externos que estão sob o controle da empresa que consome estas integrações ou informações.
+Com as funcionalidades existentes nas APIs e nos Webhooks, temos um ecossistema de integração a partir dos quais qualquer ferramenta, plataforma ou aplicação pode se beneficiar, seja consumindo os dados produzidos pela Solides ou fornecendo suas próprias informações para a Solides, a partir de origens de dados, plataforma e sistemas externos que estão sob o controle da empresa que consome estas integrações ou informações.
 
 **Essa é a definição e responsabilidade do nosso SDK.**
 
@@ -92,4 +92,4 @@ TODO
 TODO
 
 ## Licença de uso
-Este projeto é licenciado sob a [MIT Licence](LICENSE).
+Este projeto é open-source e licenciado sob a [MIT Licence](LICENSE).
