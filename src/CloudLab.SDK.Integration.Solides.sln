@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33617.297
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "github", "github", "{59AED98F-4866-4C8B-8E32-CC4C1800F510}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sdk", "sdk", "{EB8A5A65-78D2-41FA-A360-84D278FFEF55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{A69C73EC-A220-440B-9999-651187E980A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3227BF4F-1609-4D33-9F2C-F021766E79E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLab.SDK.Integration.Solides.API", "CloudLab.SDK.Integration.Solides.API\CloudLab.SDK.Integration.Solides.API.csproj", "{74EC18DC-3144-4818-AC68-A42CF5423537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLab.SDK.Integration.Solides", "CloudLab.SDK.Integration.Solides\CloudLab.SDK.Integration.Solides.csproj", "{FDF9278F-E39D-41D4-A9FC-F31FFE49D962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74EC18DC-3144-4818-AC68-A42CF5423537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EC18DC-3144-4818-AC68-A42CF5423537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EC18DC-3144-4818-AC68-A42CF5423537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EC18DC-3144-4818-AC68-A42CF5423537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF9278F-E39D-41D4-A9FC-F31FFE49D962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF9278F-E39D-41D4-A9FC-F31FFE49D962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF9278F-E39D-41D4-A9FC-F31FFE49D962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF9278F-E39D-41D4-A9FC-F31FFE49D962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB8A5A65-78D2-41FA-A360-84D278FFEF55} = {3227BF4F-1609-4D33-9F2C-F021766E79E5}
+		{A69C73EC-A220-440B-9999-651187E980A5} = {3227BF4F-1609-4D33-9F2C-F021766E79E5}
+		{74EC18DC-3144-4818-AC68-A42CF5423537} = {A69C73EC-A220-440B-9999-651187E980A5}
+		{FDF9278F-E39D-41D4-A9FC-F31FFE49D962} = {EB8A5A65-78D2-41FA-A360-84D278FFEF55}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A90C9E3-0749-43A1-BA43-56B474681C26}
+	EndGlobalSection
+EndGlobal
