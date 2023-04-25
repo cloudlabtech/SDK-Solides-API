@@ -96,38 +96,7 @@ TODO
 TODO
 
 ## Features
-As seguintes funcionalidades estão disponíveis no SDK:
-
-<details>
-<summary>Autenticação</summary>
-
-- [ ] https://github.com/cloudlabtech/SDK-Solides-API/issues/2
-
-| Funcionalidade | Status | Issue # | Release |
-|--------------- | ------ | ------- | ------- |
-| Autenticação | ![status][badge_doing] | [#2]() | ![release][badge_na] |
-
-</details>
-<details>
-<summary>Ocorrências</summary>
-
-| Funcionalidade | Status | Issue # | Release |
-|--------------- | ------ | ------- | ------- |
-| Listar ocorrências | ![status][badge_backlog] | [#3](https://github.com/cloudlabtech/SDK-Solides-API/issues/3) | ![release][badge_na] |
-| Listar ocorrência | ![status][badge_backlog] | [#5](https://github.com/cloudlabtech/SDK-Solides-API/issues/5) | ![release][badge_na] |
-| Criar ocorrência | ![status][badge_backlog] | [#4](https://github.com/cloudlabtech/SDK-Solides-API/issues/4) | ![release][badge_na] |
-| Remover ocorrência | ![status][badge_backlog] | [#6](https://github.com/cloudlabtech/SDK-Solides-API/issues/6) | ![release][badge_na] |
-
-</details>
-<details>
-<summary>Colaboradores</summary>
-
-| Funcionalidade | Status | Issue # | Release |
-|--------------- | ------ | ------- | ------- |
-| Listar colaboradores | ![status][badge_backlog] | [#7](https://github.com/cloudlabtech/SDK-Solides-API/issues/7) | ![release][badge_na] |
-
-</details>
-
+A lista completa das funcionalidades, seu status de implementação e informações adicionais está disponível na [Lista de Features do SDK](https://github.com/cloudlabtech/SDK-Solides-API/issues/8).
 
 ## Roadmap
 As interações, datas e calendário da implementação das funcionalidades estão disponíveis em nosso [Roadmap](https://github.com/orgs/cloudlabtech/projects/1/views/5)
