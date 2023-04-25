@@ -96,10 +96,30 @@ TODO
 TODO
 
 ## Features
-As seguintes funcionalidades estão mapeadas
-| Funcionalidade | Categoria | Status | Issue # | Release |
-|--------------- | --------- | ------ | ------- | ------- |
-| Autenticação | Segurança | ![status][badge_doing] | [#2](https://github.com/cloudlabtech/SDK-Solides-API/issues/2) | N/A |
+As seguintes funcionalidades estão disponíveis no SDK:
+
+<details>
+<summary>Autenticação</summary>
+
+| Funcionalidade | Status | Issue # | Release |
+|--------------- | ------ | ------- | ------- |
+| Autenticação | ![status][badge_doing] | [#2](https://github.com/cloudlabtech/SDK-Solides-API/issues/2) | ![release][badge_na] |
+
+</details>
+
+
+<details>
+<summary>Ocorrências</summary>
+
+| Funcionalidade | Status | Issue # | Release |
+|--------------- | ------ | ------- | ------- |
+| Listar ocorrências | ![status][badge_backlog] | [#3](https://github.com/cloudlabtech/SDK-Solides-API/issues/3) | ![release][badge_na] |
+| Listar ocorrência | ![status][badge_backlog] | [#5](https://github.com/cloudlabtech/SDK-Solides-API/issues/5) | ![release][badge_na] |
+| Criar ocorrência | ![status][badge_backlog] | [#4](https://github.com/cloudlabtech/SDK-Solides-API/issues/4) | ![release][badge_na] |
+| Remover ocorrência | ![status][badge_backlog] | [#6](https://github.com/cloudlabtech/SDK-Solides-API/issues/6) | ![release][badge_na] |
+
+</details>
+
 
 ## Roadmap
 As interações, datas e calendário da implementação das funcionalidades estão disponíveis em nosso [Roadmap](https://github.com/orgs/cloudlabtech/projects/1/views/5)
@@ -113,6 +133,7 @@ TODO
 ## Licença de uso
 Este projeto é open-source e licenciado sob a [MIT Licence](LICENSE).
 
-[badge_backlog]: https://img.shields.io/badge/-Backlog-sucess
+[badge_backlog]: https://img.shields.io/badge/-Backlog-lightgray
 [badge_doing]: https://img.shields.io/badge/-Em%20desenvolvimento-sucess
-[badge_done]: https://img.shields.io/badge/-Em%20desenvolvimento-sucess
+[badge_done]: https://img.shields.io/badge/-Finalizado-orange
+[badge_na]: https://img.shields.io/badge/-Não%20disponível-blue
