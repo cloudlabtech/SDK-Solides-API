@@ -98,8 +98,8 @@ TODO
 ## Features
 As seguintes funcionalidades estão mapeadas
 | Funcionalidade | Categoria | Status | Issue # | Release |
-|---|---|---|---|---|
-| Autenticação | Segurança | ![status][badge_doing] | #2 | N/A |
+|--------------- | --------- | ------ | ------- | ------- |
+| Autenticação | Segurança | ![status][badge_doing] | [#2](https://github.com/cloudlabtech/SDK-Solides-API/issues/2) | N/A |
 
 ## Roadmap
 As interações, datas e calendário da implementação das funcionalidades estão disponíveis em nosso [Roadmap](https://github.com/orgs/cloudlabtech/projects/1/views/5)
