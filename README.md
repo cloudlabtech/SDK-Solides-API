@@ -1,5 +1,11 @@
-# CloudLab Software Development Kit (SDK) para integração com API da [Solides](https://solides.com.br/) <!-- omit in toc -->
+# CloudLab Software Development Kit (SDK) para integração com API da Solides <!-- omit in toc -->
 Este projeto representa o SDK que oferece as ferramentas para a integração com as [APIs da Solides](https://gestaoapidocs.solides.com.br/), que define um conjunto de integrações das funcionalidades existentes nos sistemas de sua plataforma.
+
+[![CodeQL](https://github.com/cloudlabtech/SDK-Solides-API/actions/workflows/codeql.yml/badge.svg)](https://github.com/cloudlabtech/SDK-Solides-API/actions/workflows/codeql.yml)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/cloudlabtech/SDK-Solides-API?include_prereleases)
+
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cloudlabtech/SDK-Solides-API)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cloudlabtech/SDK-Solides-API)
 
 - [O que é a Solides?](#o-que-é-a-solides)
 - [O que é a API da Solides?](#o-que-é-a-api-da-solides)
@@ -8,6 +14,8 @@ Este projeto representa o SDK que oferece as ferramentas para a integração com
 - [Instalação](#instalação)
 - [Compilação a partir do código](#compilação-a-partir-do-código)
 - [Documentação do SDK](#documentação-do-sdk)
+- [Features](#features)
+- [Roadmap](#roadmap)
 - [Como posso contribuir?](#como-posso-contribuir)
 - [Bugs e Issues](#bugs-e-issues)
 - [Licença de uso](#licença-de-uso)
@@ -26,6 +34,8 @@ Este projeto representa o SDK que oferece as ferramentas para a integração com
 > A metodologia elaborada por nossa startup une as principais teorias comportamentais — como o DISC — gerando uma aplicação mais rápida e um relatório mais completo. 
 >
 > A avaliação é testada e aprovada pela Universidade de São Paulo (USP) e pela Universidade Federal de Minas Gerais (UFMG), com resultados atingindo 97% de precisão.
+
+Para mais informações, visite o [site da Solides](https://solides.com.br/)
 
 ## O que é a API da Solides?
 A API Sólides é RESTful, e oferece um conjunto de funcionalidades de seus sistemas para ter uma boa integração junto com o sistema da sua empresa. A API de integração funciona em conjunto com as ferramentas do sistema Solides Gestão, oferecendo a criação, edição, atualização de registros importantes para sua empresa.
@@ -85,6 +95,15 @@ TODO
 ## Documentação do SDK
 TODO
 
+## Features
+As seguintes funcionalidades estão mapeadas
+| Funcionalidade | Categoria | Status | Issue # | Release |
+|---|---|---|---|---|
+| Autenticação | Segurança | ![status][badge_doing] | #2 | N/A |
+
+## Roadmap
+As interações, datas e calendário da implementação das funcionalidades estão disponíveis em nosso [Roadmap](https://github.com/orgs/cloudlabtech/projects/1/views/5)
+
 ## Como posso contribuir?
 TODO
 
@@ -93,3 +112,7 @@ TODO
 
 ## Licença de uso
 Este projeto é open-source e licenciado sob a [MIT Licence](LICENSE).
+
+[badge_backlog]: https://img.shields.io/badge/-Backlog-sucess
+[badge_doing]: https://img.shields.io/badge/-Em%20desenvolvimento-sucess
+[badge_done]: https://img.shields.io/badge/-Em%20desenvolvimento-sucess
