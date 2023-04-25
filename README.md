@@ -35,7 +35,7 @@ Este projeto representa o SDK que oferece as ferramentas para a integração com
 >
 > A avaliação é testada e aprovada pela Universidade de São Paulo (USP) e pela Universidade Federal de Minas Gerais (UFMG), com resultados atingindo 97% de precisão.
 
-Para mais informações, visite o [site da Solides](https://solides.com.br/)
+Para mais informações, visite o [site da Solides](https://solides.com.br/).
 
 ## O que é a API da Solides?
 A API Sólides é RESTful, e oferece um conjunto de funcionalidades de seus sistemas para ter uma boa integração junto com o sistema da sua empresa. A API de integração funciona em conjunto com as ferramentas do sistema Solides Gestão, oferecendo a criação, edição, atualização de registros importantes para sua empresa.
