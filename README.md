@@ -16,6 +16,7 @@ Este projeto representa o SDK que oferece as ferramentas para a integração com
 - [Documentação do SDK](#documentação-do-sdk)
 - [Features](#features)
 - [Roadmap](#roadmap)
+- [Release Notes](#release-notes)
 - [Como posso contribuir?](#como-posso-contribuir)
 - [Bugs e Issues](#bugs-e-issues)
 - [Licença de uso](#licença-de-uso)
@@ -101,6 +102,9 @@ A lista completa das funcionalidades, seu status de implementação e informaç�
 ## Roadmap
 As interações, datas e calendário da implementação das funcionalidades estão disponíveis em nosso [Roadmap](https://github.com/orgs/cloudlabtech/projects/1/views/5)
 
+## Release Notes
+TODO
+
 ## Como posso contribuir?
 TODO
 
@@ -109,8 +113,3 @@ TODO
 
 ## Licença de uso
 Este projeto é open-source e licenciado sob a [MIT Licence](LICENSE).
-
-[badge_backlog]: https://img.shields.io/badge/-Backlog-lightgray
-[badge_doing]: https://img.shields.io/badge/-Em%20desenvolvimento-sucess
-[badge_done]: https://img.shields.io/badge/-Finalizado-orange
-[badge_na]: https://img.shields.io/badge/-Não%20disponível-blue
