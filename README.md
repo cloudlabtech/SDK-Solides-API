@@ -3,7 +3,6 @@ Este projeto representa o SDK que oferece as ferramentas para a integração com
 
 [![CodeQL](https://github.com/cloudlabtech/SDK-Solides-API/actions/workflows/codeql.yml/badge.svg)](https://github.com/cloudlabtech/SDK-Solides-API/actions/workflows/codeql.yml)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/cloudlabtech/SDK-Solides-API?include_prereleases)
-
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/cloudlabtech/SDK-Solides-API)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cloudlabtech/SDK-Solides-API)
 
